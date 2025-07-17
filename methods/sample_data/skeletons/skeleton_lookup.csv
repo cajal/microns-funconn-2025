@@ -1,0 +1,7 @@
+skeleton_id,meshwork_skeleton_id,import_method,segment_id,nucleus_id,compartment,auto_proofread_neuron_id,split_index,filename
+35a8af35545119ae,ba0e45a788db,2f593b,864691136521831825,560530,axon,,,skeleton_axon_560530.npz
+7bb13542b15dd539,88487534d291,2f593b,864691136008689326,327859,axon,,,skeleton_axon_327859.npz
+8fe52b5641912a77,9ab3fd182869,2f593b,864691135538403186,222998,axon,,,skeleton_axon_222998.npz
+194b2c9c79e4afd2,,801fa9,864691136911865329,292965,dend,91cd12a045,0.0,skeleton_dend_292965.npz
+7f8a8cf379621204,,801fa9,864691136370991496,587885,dend,945766bff6,0.0,skeleton_dend_587885.npz
+622158f8bb175abf,,801fa9,864691135943687882,587744,dend,cc211cede0,0.0,skeleton_dend_587744.npz

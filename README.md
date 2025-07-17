@@ -94,6 +94,11 @@ python3 ./like2like.py
 
 Intermediate results are stored in `funconnect/results` and should match the results in the `results` folder.
 
+## Reproduce methods
+
+Notebooks to demonstrate some of the methods used in the paper are in the `methods` folder. Currently available methods:
+- proximities - `compute_proximities.ipynb`
+
 ## Data Availability
 
 To access the datasets analyzed in this study, please see the [data availability](https://www.nature.com/articles/s41586-025-08840-3#data-availability) section of the manuscript.
